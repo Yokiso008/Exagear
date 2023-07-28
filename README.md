@@ -5,9 +5,9 @@ ExaGear um mecanismo de virtualização que permitia a execução de aplicativos
 Obs:Codigo Fechado
 |×××××××××××××××××××|
 # Requisitos
-×Snapdragon,Mali,Exynos,Powee Vr e Mediatek
+×Snapdragon,Mali,Exynos,Power Vr e Mediatek
 ×
 
 ×Adreno 400 ou Inferior×
 
-×Ram 1 ou Inferior×
+×Ram 2 ou Inferior×
